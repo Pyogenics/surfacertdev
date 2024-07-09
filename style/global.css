@@ -1,0 +1,34 @@
+/*
+ * CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>
+ * Copyright (c) 2024 Pyogenics <https://www.github.com/pyogenics>
+ * 
+ * Global CSS file used by all html documents.
+ */
+
+* {
+	font-family: Arial,Verdana,Tahoma;
+
+	background-color: #222222;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	border-bottom: dotted #ffffff 2px;
+	padding-bottom: 3px;
+}
+
+a, a:visited, a:active {
+	color: skyblue;
+}
+
+body {
+	margin: 3em;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
