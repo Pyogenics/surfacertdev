@@ -32,3 +32,15 @@ footer {
 	position: fixed;
 	bottom: 0;
 }
+
+/*
+ *Classes
+ */
+.anchorList {
+	display: flex;
+	flex-direction: column;
+}
+
+.anchorListItem {
+	margin-bottom: 0.3em;
+}
